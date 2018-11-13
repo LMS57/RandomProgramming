@@ -1,3 +1,10 @@
+/*
+	File was originally created to find all values above 32 bits that are palindromes in base 2, 10, and 16 at the same time,
+ended up finding values that are palindormes in multiple bases at once
+/*
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
